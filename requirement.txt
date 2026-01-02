@@ -1,0 +1,34 @@
+# --- Core Backend ---
+Flask
+Django
+python-dotenv
+requests
+
+# --- AI / ML ---
+tensorflow
+mediapipe
+opencv-python
+numpy
+
+# --- Hand / Eye / Face Control ---
+cvzone
+pyautogui
+mouse
+pynput
+
+# --- Voice Assistant ---
+SpeechRecognition
+pyttsx3
+pyaudio
+vosk
+sounddevice
+fuzzywuzzy
+python-Levenshtein
+psutil
+pywin32
+pipwin
+
+# --- UI / Chat ---
+streamlit
+google-generativeai
+google-api-python-client
